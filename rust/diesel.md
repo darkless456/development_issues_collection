@@ -7,3 +7,5 @@ Adding the folder to the PATH variable didn't help, at least in my case, as by s
 
 After installation diesel would require some other assemblies. Copy libcrypto-1_1-x64.dll, libiconv-2.dll and libssl-1_1-x64.dll into the folder showed after where diesel command execution
 ```
+
+[Diesel.rs —PostgreSQL linking errors on Windows](https://taharmeijs.medium.com/diesel-rs-postgresql-linking-errors-on-windows-b769586664c1)
